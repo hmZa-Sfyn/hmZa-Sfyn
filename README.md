@@ -6,6 +6,8 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=140644021)
 
+![](https://komarev.com/ghpvc/?username=hmZa-Sfyn&base=1000)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmza-sfyn&label=Profile%20views&color=0e75b6&style=flat" alt="hmza-sfyn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmza-sfyn" alt="hmza-sfyn" /></a> </p>
