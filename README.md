@@ -4,9 +4,7 @@
 
 <h1 align="center">👋 Hey there, I’m <code>hmZa</code> 🚀</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💻-Stupidity is my superpower—why settle for being normal when you can be hilariously wrong?-blueviolet?style=for-the-badge" alt="Coding with Passion">
-</p>
+![](https://hit.yhype.me/github/profile?user_id=140644021)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmza-sfyn&label=Profile%20views&color=0e75b6&style=flat" alt="hmza-sfyn" /> </p>
 
