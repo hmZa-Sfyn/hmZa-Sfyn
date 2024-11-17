@@ -19,9 +19,13 @@
 
 <div align="center">
   <a href="https://hmza-blog.vercel.app/">
-    <img src="https://img.shields.io/badge/🔥-hmZa Blogs-orange?style=for-the-badge" alt="../../../../hacked.py">
+    <img src="https://img.shields.io/badge/🔥-hmZa Blogs-purple?style=for-the-badge" alt="../../../../hacked.py">
   </a>
 </div>
+
+```shell
+chrome https://hmza-blog.vercel.app/
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
