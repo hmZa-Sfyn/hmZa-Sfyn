@@ -17,6 +17,13 @@
   <img src="https://img.shields.io/badge/🎯-Pentester-orange?style=for-the-badge" alt="Rage Mode Engaged">
 </p>
 
+<div align="center">
+  <a href="https://hmza-blog.vercel.app/">
+    <img src="https://img.shields.io/badge/🎯-hmZa-Blogs-orange?style=for-the-badge" alt="Rage Mode Engaged">
+    My Blog Site
+  </a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/hamzasufyanmacr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hamzasufyanmacr1" height="30" width="40" /></a>
