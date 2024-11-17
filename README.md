@@ -18,9 +18,10 @@
 </p>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/🎯-hmZa-Blogs-orange?style=for-the-badge" alt="Rage Mode Engaged">
   <a href="https://hmza-blog.vercel.app/">
-    <img src="https://img.shields.io/badge/🎯-hmZa-Blogs-orange?style=for-the-badge" alt="Rage Mode Engaged">
-    My Blog Site
+    
+    <u>My Blog Site</u>
   </a>
 </div>
 
