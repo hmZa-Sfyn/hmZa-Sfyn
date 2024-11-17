@@ -18,10 +18,8 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎯-hmZa-Blogs-orange?style=for-the-badge" alt="Rage Mode Engaged">
   <a href="https://hmza-blog.vercel.app/">
-    
-    <u>My Blog Site</u>
+    <img src="https://img.shields.io/badge/🔥-hmZa Blogs-orange?style=for-the-badge" alt="../../../../hacked.py">
   </a>
 </div>
 
