@@ -23,9 +23,7 @@
   </a>
 </div>
 
-```shell
-chrome https://hmza-blog.vercel.app/
-```
+[hmza-blog](https://blog.hmza.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
