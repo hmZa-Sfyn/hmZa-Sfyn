@@ -79,9 +79,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmza-sfyn" alt="Streak Stats" />
 </p>
 
----
 
-> ⚡ **Fun Fact:** I’ve hacked my school server 🤖💥
 
 <!-- Optional: Snake Animation -->
 <!--
