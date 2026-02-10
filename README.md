@@ -7,10 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=hmza-sfyn&label=Profile%20views&color=0e75b6&style=flat" alt="hmza-sfyn" />
 </p>
 
+## You might know me as:
+### The inventer of bfe encryption system: 
+### The core author of:
+1. #### Monkey / Quacko languages: [monkey.io](https://monkeylang.vercel.app/) / [quacko.io](https://quackolang.vercel.app/)
+2. #### lmv: https://github.com/Lanmanvan-Org/lmv-suite-ng
+3. #### netsharp: [netsharp.io](http://netsharp.vercel.app/)
 
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmza-sfyn&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
